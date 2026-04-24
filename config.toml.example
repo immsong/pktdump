@@ -1,0 +1,9 @@
+usb_mount_path = "/mnt/usb"
+retention_days = 14
+
+[network]
+interface = "eth0"
+ips = []
+ports = []
+use_multicast = true
+multicast_groups = ["224.0.0.5"]
